@@ -30,7 +30,7 @@ Then add dependencies to My Blocks modules you want:
 ```gradle
 dependencies {
     // ... other dependencies here
-    compile 'com.github.langara.MyBlocks:myactivities:v1.0.1-alpha'
+    compile 'com.github.langara.MyBlocks:myactivities:v1.0.2-alpha'
     }
 }
 ```
