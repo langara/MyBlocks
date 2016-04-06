@@ -1,5 +1,7 @@
 # My Blocks
 
+##### IMPORTANT: this is old Java version. For new Kotlin version see: [My Intent](https://github.com/langara/MyIntent)
+
 An Android library: Collection of reusable views, fragments, activities, drawables and other utilities.
 
 It is divided into seven modules:
@@ -47,9 +49,6 @@ Check out these applications to find out what you can do with My Blocks library:
 * [My Test App (on github)](https://github.com/langara/MyTestApp) 
 * [My Test App (on google play)](https://play.google.com/store/apps/details?id=pl.mareklangiewicz.mytestapp) 
 * [My Test App (on youtube)](https://www.youtube.com/watch?v=B9FPWpQYMuc) 
-* [My Intent (on github)](https://github.com/langara/MyIntent)
-* [My Intent (on google play)](https://play.google.com/store/apps/details?id=pl.mareklangiewicz.myintent)
-* [My Intent (on youtube)](https://www.youtube.com/watch?v=-8N_B-Jpk8k)
 
 
 
